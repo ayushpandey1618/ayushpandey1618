@@ -1,6 +1,26 @@
 <div align="center">
 
 
+
+
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=46&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=950&height=100&lines=Hi%2C+I'm+Ayush+Pandey+%F0%9F%91%8B;Welcome+to+my+coding+space+%F0%9F%9A%80" alt="Hi, I'm Ayush Pandey" /></h1>
+
+
+
+
+### CSE Student | Problem Solver | AI & Game Development Enthusiast
+
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+with+code+and+curiosity;Learning+DSA+and+core+CS+fundamentals;Exploring+AI+tools+and+creative+projects" alt="Typing animation" />
+
+
+
+
+<a href="https://github.com/ayushpandey1618"><img src="https://img.shields.io/badge/GitHub-ayushpandey1618-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a><div align="center">
+
+
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&height=90&lines=Hi%2C+I'm+Ayush+Pandey+%F0%9F%91%8B;Welcome+to+my+coding+space+%F0%9F%9A%80" alt="Hi, I'm Ayush Pandey" /></h1>
 
 
